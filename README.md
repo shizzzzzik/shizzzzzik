@@ -22,3 +22,9 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shizzzzzik&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3>・Partners:</h3>
+<a target="_blank" href="https://discord.gg/anko">
+  <img alt="Anko" src="https://discordapp.com/api/guilds/925412408485371924/widget.png?style=banner2">
+</a>
