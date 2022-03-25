@@ -1,12 +1,11 @@
 <a href="https://discord.com/users/675688480340443147/" target = "_blank"><img aling ="left" alt = "shizzzzzik's Discord" width = "256px" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg">  <img aling ="left" alt = "Developer" src = "https://discord.id/img/flags/17.png" width = "64px">
 
 <h3 align="left">・Languages/Tools:</h3>
-<p><img margin-left = "20px" align = "middle" alt = "Javascript" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align = "middle" alt = "Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-<img align = "middle" alt = "HTML5" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
-<img align = "middle" alt = "mongodb" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></p>
+<p> 
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=f7e01d" /> <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-252525?style=for-the-badge&logo=node.js&logoColor=689f63" /> <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-252525?style=for-the-badge&logo=mongodb" /> <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-252525?style=for-the-badge&logo=python" /> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-html5-252525?style=for-the-badge&logo=html5" />
+</p>
 <h3 align="left">・Workspaces:</h3>
-<p><img align="middle" alt = "Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></p>
+<p><a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-visual studio code-252525?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /></p>
 <h3>・Contacts:</h3><p></p>
 
 <a target="_blank" href="https://discord.com/users/675688480340443147/">
