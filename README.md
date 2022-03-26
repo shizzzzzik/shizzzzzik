@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/675688480340443147/" target = "_blank"><img aling ="left" alt = "shizzzzzik's Discord" width = "256px" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg">  <img aling ="left" alt = "Developer" src = "https://discord.id/img/flags/17.png" width = "64px">
+<a href="https://discord.com/users/675688480340443147/" target = "_blank"><img aling ="left" alt = "shizzzzzik's Discord" width = "256px" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"><p>  <img aling ="middle" alt = "Developer" src = "https://discord.id/img/flags/17.png" width = "32px"> <img aling ="middle" alt = "Staff" src = "https://discord.id/img/flags/7.png" width = "32px"> </p>
 
 <h3 align="left">・Languages/Tools:</h3>
 <p> 
