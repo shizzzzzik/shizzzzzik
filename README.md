@@ -24,6 +24,6 @@
 
 
 <h3>・Partners:</h3>
-<a target="_blank" href="https://discord.gg/anko">
-  <img alt="Anko" src="https://discordapp.com/api/guilds/925412408485371924/widget.png?style=banner2">
+<a target="_blank" href="https://discord.gg/cyvKYpa7TG">
+  <img alt="HEART" src="https://discordapp.com/api/guilds/909810722555432990/widget.png?style=banner2">
 </a>
