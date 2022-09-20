@@ -1,6 +1,6 @@
 <a href="https://discord.com/users/675688480340443147/" target = "_blank"><img aling ="left" alt = "shizzzzzik's Discord" width = "256px" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"><p>  <img aling ="middle" alt = "Developer" src = "https://discord.id/img/flags/17.png" width = "32px"> <img aling ="middle" alt = "Staff" src = "https://discord.id/img/flags/7.png" width = "32px"> </p>
 
-<h3 align="left">・Languages/Tools:</h3>
+<h3 align="left">・Languages/Tools/Frameworks:</h3>
 <p> 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=f7e01d" /> <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-252525?style=for-the-badge&logo=node.js&logoColor=689f63" /> <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-252525?style=for-the-badge&logo=mongodb" /> <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-252525?style=for-the-badge&logo=python" /> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-html5-252525?style=for-the-badge&logo=html5" /> <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/-vue-252525?style=for-the-badge&logo=vue.js" />
 </p>
