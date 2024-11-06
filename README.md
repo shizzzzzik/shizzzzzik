@@ -21,9 +21,3 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shizzzzzik&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3>・Partners:</h3>
-<a target="_blank" href="https://discord.gg/cyvKYpa7TG">
-  <img alt="HEART" src="https://discordapp.com/api/guilds/909810722555432990/widget.png?style=banner2">
-</a>
